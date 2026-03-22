@@ -3,6 +3,6 @@
   "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showUnsupportedFiles": false
 }
