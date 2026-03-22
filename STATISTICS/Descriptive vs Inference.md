@@ -26,4 +26,8 @@
 ![[Pasted image 20260322203855.png]]
 
 Variance is the spread
-![[attachments/Pasted image 20260322212638.png]]
+
+
+test
+
+![[../attachments/Pasted image 20260322212810.png]]
