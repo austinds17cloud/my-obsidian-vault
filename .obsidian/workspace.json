@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STATISTICS/Important.md",
+                "file": "STATISTICS/Descriptive vs Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important"
+              "title": "Descriptive vs Inference"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICS/Important.md",
+                "file": "STATISTICS/Descriptive vs Inference.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Important"
+              "title": "Backlinks for Descriptive vs Inference"
             }
           },
           {
@@ -195,9 +195,11 @@
   },
   "active": "899741720651202d",
   "lastOpenFiles": [
+    "STATISTICS/Important.md",
+    "attachments/Pasted image 20260322200620.png",
+    "attachments/Pasted image 20260322200558.png",
     "STATISTICS/Descriptive vs Inference.md",
     "attachments/Pasted image 20260322200501.png",
-    "STATISTICS/Important.md",
     "attachments/Pasted image 20260322195539.png",
     "attachments",
     "STATISTICS/attachments/Pasted image 20260322174340.png",
@@ -207,8 +209,6 @@
     "STATISTICS/attachments/Pasted image 20260322174340 1.png",
     "STATISTICS/attachments/Pasted image 20260322194534.png",
     "STATISTICS/attachments/Pasted image 20260322180210.png",
-    "STATISTICS/attachments/Pasted image 20260322194444 1.png",
-    "STATISTICS/attachments/Pasted image 20260322194446.png",
     "STATISTICS/attachments",
     "STATISTICS/Start.md",
     "testeer.md",
