@@ -28,6 +28,6 @@
 Variance is the spread
 
 
-test
+test1
 
 ![[attachments/Pasted image 20260322213439.png]]
