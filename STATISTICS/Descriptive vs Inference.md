@@ -27,12 +27,9 @@
 
 Variance is the spread
 
-
-test2
-
-![[attachments/Pasted image 20260322213745.png]]
+![[attachments/Pasted image 20260322224202.png]]
 
 
-test3
+![[attachments/Pasted image 20260322224831.png]]
 
-![](attachments/Pasted%20image%2020260322213803.png)
+![[attachments/Pasted image 20260322224858.png]]
