@@ -25,3 +25,4 @@
 
 ![[Pasted image 20260322203855.png]]
 
+Variance is the spread
