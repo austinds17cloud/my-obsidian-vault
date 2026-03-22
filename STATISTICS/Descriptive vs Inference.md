@@ -34,3 +34,5 @@ Variance is the spread
 
 ![[attachments/Pasted image 20260322224858.png]]
 ![[attachments/Pasted image 20260322225640.png]]
+![[attachments/Pasted image 20260322230506.png]]
+![[attachments/Pasted image 20260322230557.png]]
