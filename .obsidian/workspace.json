@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "testeer.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -202,6 +202,7 @@
   },
   "active": "899741720651202d",
   "lastOpenFiles": [
+    "Pasted image 20260322150834.png",
     "Welcome.md",
     "testeer.md"
   ]
