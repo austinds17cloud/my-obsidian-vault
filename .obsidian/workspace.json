@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "testeer.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "5c37b8c1e478ff74",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "testeer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2b6e7228274e244b",
@@ -207,12 +196,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c37b8c1e478ff74",
+  "active": "899741720651202d",
   "lastOpenFiles": [
-    "tet.md",
-    "Welcome.md"
+    "Welcome.md",
+    "testeer.md"
   ]
 }
