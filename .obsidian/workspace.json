@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testeer.md",
+                "file": "STATISTICS/Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testeer"
+              "title": "Start"
             }
           }
         ]
@@ -202,8 +202,10 @@
   },
   "active": "899741720651202d",
   "lastOpenFiles": [
-    "Pasted image 20260322150834.png",
     "Welcome.md",
-    "testeer.md"
+    "STATISTICS/Start.md",
+    "testeer.md",
+    "Pasted image 20260322150834.png",
+    "STATISTICS"
   ]
 }
