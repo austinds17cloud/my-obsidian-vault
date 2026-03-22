@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "STATISTICS/attachments/Pasted image 20260322175254.png"
+                "file": "STATISTICS/attachments/Pasted image 20260322174340.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260322175254"
+              "title": "Pasted image 20260322174340"
             }
           },
           {
@@ -102,8 +102,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICS/attachments/Pasted image 20260322175254.png",
-                "collapseAll": false,
+                "file": "STATISTICS/attachments/Pasted image 20260322174340.png",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -112,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260322175254"
+              "title": "Backlinks for Pasted image 20260322174340"
             }
           },
           {
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,22 +191,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899741720651202d",
+  "active": "2101fbe60d3d1120",
   "lastOpenFiles": [
-    "STATISTICS/attachments/Pasted image 20260322194534.png",
-    "STATISTICS/attachments/Pasted image 20260322180210.png",
     "STATISTICS/Descriptive vs Inference.md",
     "STATISTICS/attachments/Pasted image 20260322174340.png",
-    "STATISTICS/attachments/Pasted image 20260322175254.png",
+    "Welcome.md",
+    "STATISTICS/attachments/Pasted image 20260322174340 1.png",
     "STATISTICS/attachments/Pasted image 20260322175109.png",
+    "STATISTICS/attachments/Pasted image 20260322175254.png",
+    "STATISTICS/attachments/Pasted image 20260322194534.png",
+    "STATISTICS/attachments/Pasted image 20260322180210.png",
     "STATISTICS/attachments/Pasted image 20260322194444 1.png",
     "STATISTICS/attachments/Pasted image 20260322194446.png",
     "STATISTICS/attachments/Pasted image 20260322194444.png",
     "STATISTICS/attachments/Pasted image 20260322194441.png",
-    "STATISTICS/attachments/Pasted image 20260322194441 1.png",
     "STATISTICS/Untitled.md",
     "STATISTICS/attachments",
-    "Welcome.md",
     "STATISTICS/Start.md",
     "testeer.md",
     "STATISTICS"
