@@ -11,12 +11,14 @@
             "id": "899741720651202d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "STATISTICS/attachments/Pasted image 20260322174340.png"
+                "file": "STATISTICS/Descriptive vs Inference.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260322174340"
+              "icon": "lucide-file",
+              "title": "Descriptive vs Inference"
             }
           },
           {
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICS/attachments/Pasted image 20260322174340.png",
+                "file": "STATISTICS/Descriptive vs Inference.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260322174340"
+              "title": "Backlinks for Descriptive vs Inference"
             }
           },
           {
@@ -191,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2101fbe60d3d1120",
+  "active": "899741720651202d",
   "lastOpenFiles": [
-    "STATISTICS/Descriptive vs Inference.md",
+    "STATISTICS/attachments/Pasted image 20260322175254.png",
+    "STATISTICS/attachments/Pasted image 20260322175109.png",
     "STATISTICS/attachments/Pasted image 20260322174340.png",
+    "STATISTICS/Descriptive vs Inference.md",
     "Welcome.md",
     "STATISTICS/attachments/Pasted image 20260322174340 1.png",
-    "STATISTICS/attachments/Pasted image 20260322175109.png",
-    "STATISTICS/attachments/Pasted image 20260322175254.png",
     "STATISTICS/attachments/Pasted image 20260322194534.png",
     "STATISTICS/attachments/Pasted image 20260322180210.png",
     "STATISTICS/attachments/Pasted image 20260322194444 1.png",
