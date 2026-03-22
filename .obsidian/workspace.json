@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Start"
             }
+          },
+          {
+            "id": "5c7206b6a9697c08",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       },
@@ -202,8 +212,8 @@
   },
   "active": "899741720651202d",
   "lastOpenFiles": [
-    "Welcome.md",
     "STATISTICS/Start.md",
+    "Welcome.md",
     "testeer.md",
     "Pasted image 20260322150834.png",
     "STATISTICS"
