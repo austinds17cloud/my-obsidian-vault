@@ -28,6 +28,8 @@
 Variance is the spread
 
 
-test1
+test2
 
-![[attachments/Pasted image 20260322213439.png]]
+![[attachments/Pasted image 20260322213745.png]]
+
+
