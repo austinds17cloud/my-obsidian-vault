@@ -30,4 +30,4 @@ Variance is the spread
 
 test
 
-![[attachments/Pasted image 20260322213143.png]]
+![](attachments/Pasted%20image%2020260322213257.png)
