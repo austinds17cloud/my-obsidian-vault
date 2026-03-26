@@ -42,3 +42,6 @@ The baseline (no special ad) averages **25% click rate.**
 > Comparing p-values across tests tells you **which results you can trust** and which might just be noise.
 
 But watch out — when you run **many tests at once**, you naturally increase the chance of *accidentally* getting a p < 0.05 somewhere. This is called the **multiple testing problem.** With 20 tests, you'd expect one false positive just by chance, even if nothing is real. Researchers fix this using corrections like **Bonferroni correction**, which raises the bar for significance when running multiple comparisons.
+
+
+
