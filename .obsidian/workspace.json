@@ -82,9 +82,23 @@
               "icon": "lucide-file",
               "title": "StatQuest"
             }
+          },
+          {
+            "id": "a44955eac82ccf26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STATISTICS/Important.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICS/StatQuest.md",
+                "file": "STATISTICS/Important.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for StatQuest"
+              "title": "Backlinks for Important"
             }
           },
           {
@@ -246,24 +260,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d684ab4c7d542ac",
+  "active": "a44955eac82ccf26",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260326230201.png",
+    "attachments/Pasted image 20260326230143.png",
+    "attachments/Pasted image 20260326230058.png",
+    "STATISTICS/Untitled 1.md",
+    "STATISTICS/Important.md",
+    "attachments/Pasted image 20260326230000.png",
+    "STATISTICS/StatQuest.md",
+    "attachments/Pasted image 20260326225939.png",
+    "attachments/Pasted image 20260326225925.png",
+    "attachments/Pasted image 20260326225910.png",
     "attachments/Pasted image 20260326204213.png",
     "attachments/Pasted image 20260326204020.png",
     "attachments/Pasted image 20260326202047.png",
     "attachments/Pasted image 20260326202015.png",
-    "attachments/Pasted image 20260326200349.png",
-    "attachments/Pasted image 20260326195852.png",
-    "STATISTICS/StatQuest.md",
     "STATISTICS/Probability.md",
-    "STATISTICS/attachments/Pasted image 20260323191252.png",
-    "STATISTICS/attachments/Pasted image 20260323191140.png",
-    "STATISTICS/attachments/Pasted image 20260323191035.png",
-    "STATISTICS/attachments/Pasted image 20260323165531.png",
-    "attachments/Pasted image 20260323162631.png",
     "Untitled.md",
     "STATISTICS/Descriptive vs Inference.md",
-    "STATISTICS/Important.md",
     "Welcome.md",
     "attachments",
     "STATISTICS/attachments",
