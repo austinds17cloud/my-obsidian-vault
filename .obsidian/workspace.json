@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STATISTICS/numiquo.md",
+                "file": "STATISTICS/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "numiquo"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STATISTICS/numiquo.md",
+                "file": "STATISTICS/Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for numiquo"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -262,6 +262,11 @@
   },
   "active": "102dc10ae81c8a74",
   "lastOpenFiles": [
+    "STATISTICS/StatQuest.md",
+    "STATISTICS/Probability.md",
+    "STATISTICS/Important.md",
+    "STATISTICS/Descriptive vs Inference.md",
+    "STATISTICS/numiquo.md",
     "attachments/Pasted image 20260328185841.png",
     "attachments/Pasted image 20260328185812.png",
     "attachments/Pasted image 20260328185734.png",
@@ -272,14 +277,8 @@
     "attachments/Pasted image 20260328184609.png",
     "attachments/Pasted image 20260328184544.png",
     "attachments/Pasted image 20260328180329.png",
-    "attachments/Pasted image 20260328175605.png",
     "STATISTICS/Untitled 1.md",
-    "STATISTICS/numiquo.md",
     "Untitled.md",
-    "STATISTICS/Important.md",
-    "STATISTICS/StatQuest.md",
-    "STATISTICS/Probability.md",
-    "STATISTICS/Descriptive vs Inference.md",
     "Welcome.md",
     "attachments",
     "STATISTICS/attachments",
