@@ -1,3 +1,3 @@
 
 1. Entropy
-2. 
+2. last part of linear regression video
