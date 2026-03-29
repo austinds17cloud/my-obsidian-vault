@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "./Attachments",
   "promptDelete": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false
 }
