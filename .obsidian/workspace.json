@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Entropy.md",
+                "file": "Machine Learning/SQ - Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entropy"
+              "title": "SQ - Machine Learning"
             }
           }
         ],
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Entropy.md",
+                "file": "Machine Learning/SQ - Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Entropy"
+              "title": "Backlinks for SQ - Machine Learning"
             }
           },
           {
@@ -316,7 +316,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d74554e6ea2e0eb",
+  "active": "6ba437f91255608c",
   "lastOpenFiles": [
     "Machine Learning/Entropy.md",
     "Mutual Information.md",
